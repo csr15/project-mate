@@ -1,0 +1,1 @@
+export const GoogleAuthAPI = "419326780272-h55qbu7qfrfaehq8cj7mvnuhvp6e9as4.apps.googleusercontent.com"
