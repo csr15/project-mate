@@ -4,7 +4,7 @@ const { PORT = 3000 } = process.env;
 const cors = require("cors");
 const mongoose = require("mongoose");
 const mongoDBClusterURL =
-  "mongodb+srv://csr15:TtNFDMQb4YmYpDSV@tutorial.innnd.mongodb.net/project-mate?retryWrites=true&w=majority";
+  "XXXXXX";
 const versionPrefix = "/api/v1";
 
 //Cors Configuration
